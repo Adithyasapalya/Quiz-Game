@@ -2,7 +2,7 @@ print("Welcome to the Quiz Game!")
 
 playing = input("Do you want to play? (yes/no): ")
 
-if playing != "yes":
+if playing.lower() != "yes":
     quit()
 print("okay! lets play :)")   
 
