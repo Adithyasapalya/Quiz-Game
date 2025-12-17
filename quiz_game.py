@@ -7,7 +7,6 @@ if playing.lower() != "yes":
 print("okay! lets play :)")   
 score = 0
 
-
 answer= input("What does CPU stand for? ")
 if answer.lower() == "central processing unit":
     print("Correct!")
