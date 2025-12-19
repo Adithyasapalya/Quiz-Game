@@ -1,3 +1,4 @@
+#Random Quiz Game
 print("Welcome to the Quiz Game!")
 
 playing = input("Do you want to play? (yes/no): ")
